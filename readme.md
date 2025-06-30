@@ -7,6 +7,25 @@ No development, just a comprehensive guide to help you find the perfect free TTS
 - 🌍 **Multilingual** - Support for 10+ languages
 - 🚀 **Easy Setup** - One-command installation
 
+
+## 🔍 Choosing the Right TTS Model
+
+| Feature | XTTS v2 (Coqui) | Facebook MMS-TTS |
+|---------|------------------|------------------|
+| **Languages** | 16 languages | 1,100+ languages |
+| **Turkish Support** | ⭐⭐⭐⭐⭐ Native | ⭐⭐⭐⭐ Good |
+| **GPU Required** | Optional (recommended) | Optional |
+| **Voice Cloning** | ✅ 6-second audio clip | ❌ No cloning |
+| **Single Speaker** | ✅ Yes | ✅ Yes (per language) |
+| **Multi-Speaker** | ✅ Yes | ❌ One model per language |
+| **Model Size for TR** | ~1.9GB | 277.01 MB |
+| **Fine-tuning** | ✅ Yes | ❌ Pre-trained only |
+| **License** | Coqui Public License | CC-BY-NC 4.0 |
+| **Quality** | ⭐⭐⭐⭐⭐ Excellent | ⭐⭐⭐⭐ Very Good |
+| **Commercial Use** | ✅ Yes (with license) | ❌ Non-commercial only |
+| **Inference Speed** | Fast | Moderate |
+| **Best For** | Voice cloning, production | Research, many languages |
+
 ## 🚀 Quick Start Guides
 
 ### Option 1: Coqui TTS
@@ -53,23 +72,6 @@ By default, we run inference on a GPU.
 3. Load the checkpoint.
 3. Specify the sentence you want to synthesize and generate the audio.
 
-## 🔍 Choosing the Right TTS Model
-
-| Feature | XTTS v2 (Coqui) | Facebook MMS-TTS |
-|---------|------------------|------------------|
-| **Languages** | 16 languages | 1,100+ languages |
-| **Turkish Support** | ⭐⭐⭐⭐⭐ Native | ⭐⭐⭐⭐ Good |
-| **GPU Required** | Optional (recommended) | Optional |
-| **Voice Cloning** | ✅ 6-second audio clip | ❌ No cloning |
-| **Single Speaker** | ✅ Yes | ✅ Yes (per language) |
-| **Multi-Speaker** | ✅ Yes | ❌ One model per language |
-| **Model Size for TR** | ~1.9GB | 277.01 MB |
-| **Fine-tuning** | ✅ Yes | ❌ Pre-trained only |
-| **License** | Coqui Public License | CC-BY-NC 4.0 |
-| **Quality** | ⭐⭐⭐⭐⭐ Excellent | ⭐⭐⭐⭐ Very Good |
-| **Commercial Use** | ✅ Yes (with license) | ❌ Non-commercial only |
-| **Inference Speed** | Fast | Moderate |
-| **Best For** | Voice cloning, production | Research, many languages |
 
 
 ⭐ Star this repo to help others discover free TTS solutions!
