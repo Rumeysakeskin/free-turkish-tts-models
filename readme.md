@@ -22,7 +22,7 @@ No development, just a comprehensive guide to help you find the perfect free TTS
 | **Fine-tuning** | ✅ Yes | ❌ Pre-trained only |
 | **License** | Coqui Public License | CC-BY-NC 4.0 |
 | **Quality** | ⭐⭐⭐⭐⭐ Excellent | ⭐⭐⭐⭐ Very Good |
-| **Commercial Use** | ✅ Yes (with license) | ❌ Non-commercial only |
+| **Commercial Use** | ❌ No longer supported | ❌ Non-commercial only |
 | **Inference Speed** | Fast | Moderate |
 | **Best For** | Voice cloning, production | Research, many languages |
 
